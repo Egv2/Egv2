@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on React projects
 
-- 🌱 I’m currently learning **React, Node.js, Solidity**
+- 🌱 I’m currently learning **React, Node.js, **
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Wordpress**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Wordpress, Material UI, React.js, eCommerce**
 
 - 📫 How to reach me **egecansrn@gmail.com**
 
