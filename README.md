@@ -72,6 +72,9 @@
 <p align="left">
 - NEEON NFT Portfolio: <a href="https://neeon.vercel.app" target="_blank">neeon.vercel.app</a><br>
 </p>
+<p align="left">
+- ModelX - Model Showroom: <a href="https://modelx.vercel.app" target="_blank">modelx.vercel.app</a><br>
+</p>
 
 <h3 align="left">Published Projects:</h3>
 <p align="left">
