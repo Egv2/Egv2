@@ -1,4 +1,4 @@
-<h3 align="center">Allons-y! I'm Ege. 🚀🪐🧿<br>A Front End Developer and a Digital Artist. Citizen of the Earth.</h3>
+<h3 align="center">Allons-y! I'm Ege. 🚀🪐🧿<br>Web3 Front End Developer and a Digital Artist. Citizen of the Earth.</h3>
 
 ###
 
@@ -68,6 +68,15 @@
 
 ###
 
+<h3 align="left">Published Projects:</h3>
+<p align="left">
+- Göbekli Koç | Live Coaching: <a href="https://www.gobeklikoc.com" target="_blank">Gobekli Koc | Online Coaching</a><br>
+- Corphix AI Landing Page: <a href="https://corphixai.com" target="_blank">corphixAI | Whale Alert AI</a><br>
+- Corphix AI Landing Page: <a href="https://www.jekthedug.com" target="_blank">Jek the Dug | Web3 Meme Coin</a><br>
+- PepePlatinum: <a href="https://www.pepeplatinum.net/" target="_blank">Pepe Platinum | Web3 Meme Coin</a><br>
+- Phoentex AI | Landing Page: <a href="https://phoentexai.com" target="_blank">Phoentex AI </a><br>
+</p>
+
 <h3 align="left">Demo Projects:</h3>
 <p align="left">
 - NEEON NFT Portfolio: <a href="https://neeon.vercel.app" target="_blank">neeon.vercel.app</a><br>
@@ -76,12 +85,5 @@
 - ModelX - Model Showroom: <a href="https://modelx.vercel.app" target="_blank">modelx.vercel.app</a><br>
 </p>
 
-<h3 align="left">Published Projects:</h3>
-<p align="left">
-- PepePlatinum: <a href="https://www.pepeplatinum.net/" target="_blank">www.pepeplatinum.net</a><br>
-- Corphix AI Landing Page: <a href="https://corphixai.com" target="_blank">corphixai.com</a><br>
-- Göbekli Koç | Live Coaching: <a href="https://www.gobeklikoc.com" target="_blank">www.gobeklikoc.com</a><br>
-- Phoentex AI | Landing Page: <a href="https://phoentexai.com" target="_blank">phoentexai.com</a><br>
-</p>
 
 ###
