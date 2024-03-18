@@ -70,9 +70,9 @@
 
 <h3 align="left">Published Projects:</h3>
 <p align="left">
-- Göbekli Koç | Live Coaching: <a href="https://www.gobeklikoc.com" target="_blank">Gobekli Koc | Online Coaching</a><br>
-- Corphix AI Landing Page: <a href="https://corphixai.com" target="_blank">corphixAI | Whale Alert AI</a><br>
-- Corphix AI Landing Page: <a href="https://www.jekthedug.com" target="_blank">Jek the Dug | Web3 Meme Coin</a><br>
+- Gobekli Koc: <a href="https://www.gobeklikoc.com" target="_blank">Gobekli Koc | Online Coaching</a><br>
+- Corphix AI: <a href="https://corphixai.com" target="_blank">corphixAI | Whale Alert AI</a><br>
+- Jek The Dug: <a href="https://www.jekthedug.com" target="_blank">Jek the Dug | Web3 Meme Coin</a><br>
 - PepePlatinum: <a href="https://www.pepeplatinum.net/" target="_blank">Pepe Platinum | Web3 Meme Coin</a><br>
 - Phoentex AI | Landing Page: <a href="https://phoentexai.com" target="_blank">Phoentex AI </a><br>
 </p>
