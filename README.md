@@ -5,7 +5,6 @@
 <div align="center">
   <img height="300" src="https://i.ibb.co/0ZyQhTy/carpet-7.png"  />
 </div>
-
 ###
 
 <div align="center">
@@ -69,11 +68,14 @@
 ###
 
 <h3 align="left">Published Projects:</h3>
+<h4 align="left">(All coding and visual elements of the projects were made by me.)</h>
+
 <p align="left">
 - Gobekli Koc: <a href="https://www.gobeklikoc.com" target="_blank">Gobekli Koc | Online Coaching</a><br>
 - Corphix AI: <a href="https://corphixai.com" target="_blank">corphixAI | Whale Alert AI</a><br>
 - Jek The Dug: <a href="https://www.jekthedug.com" target="_blank">Jek the Dug | Web3 Meme Coin</a><br>
 - PepePlatinum: <a href="https://www.pepeplatinum.net/" target="_blank">Pepe Platinum | Web3 Meme Coin</a><br>
+- Based BYRO <a href="https://www.based-myro.com/" target="_blank">BYRO on BASE</a><br>
 - Phoentex AI | Landing Page: <a href="https://phoentexai.com" target="_blank">Phoentex AI </a><br>
 </p>
 
