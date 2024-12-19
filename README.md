@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://t.me/cryptomonky7" target="_blank">
+  <a href="https://t.me/munky0x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:bababoey7@icloud.com" target="_blank">
@@ -73,18 +73,12 @@
 <p align="left">
 - Gobekli Koc: <a href="https://www.gobeklikoc.com" target="_blank">Gobekli Koc | Online Coaching</a><br>
 - Corphix AI: <a href="https://corphixai.com" target="_blank">corphixAI | Whale Alert AI</a><br>
-- Jek The Dug: <a href="https://www.jekthedug.com" target="_blank">Jek the Dug | Web3 Meme Coin</a><br>
-- PepePlatinum: <a href="https://www.pepeplatinum.net/" target="_blank">Pepe Platinum | Web3 Meme Coin</a><br>
-- Based BYRO <a href="https://www.based-myro.com/" target="_blank">BYRO on BASE</a><br>
-- Phoentex AI | Landing Page: <a href="https://phoentexai.com" target="_blank">Phoentex AI </a><br>
+- Meme Character Creator: <a href="https://bro-meme-creator-56ys.vercel.app" target="_blank">Character Cretor made with React</a><br>
 </p>
 
-<h3 align="left">Demo Projects:</h3>
+<h3 align="left">Past Experience:</h3>
 <p align="left">
-- NEEON NFT Portfolio: <a href="https://neeon.vercel.app" target="_blank">neeon.vercel.app</a><br>
-</p>
-<p align="left">
-- ModelX - Model Showroom: <a href="https://modelx.vercel.app" target="_blank">modelx.vercel.app</a><br>
+- Apple Inc (Europe) - Frontend Development | Outsourced by dev team for iPhone 15 & Watch Pro landing page
 </p>
 
 
